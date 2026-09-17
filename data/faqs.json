@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How can I track my order?",
+    "answer": "Customers can track their order using the tracking link provided after the order has been shipped."
+  },
+  {
+    "question": "What is the return period?",
+    "answer": "Products can be returned within 30 days of delivery, subject to the company's return policy."
+  },
+  {
+    "question": "How can I cancel my order?",
+    "answer": "An order can be cancelled before it has been shipped."
+  },
+  {
+    "question": "What should I do if my product is damaged?",
+    "answer": "Contact customer support with your order ID and photographs of the damaged product."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "Customers can contact the support team through the company's official customer support channel."
+  }
+]
